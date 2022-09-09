@@ -1,4 +1,4 @@
-public class Buschtaben {
+public class Buchstaben {
     public static void main(String[] args) {
         String text = "Java ist eine tolle Programmiersprache!" ;
         int lower =0,upper = 0,space = 0,other = 0;
