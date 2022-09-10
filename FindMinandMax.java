@@ -16,6 +16,7 @@ public class FindMinandMax {
         return min;
 
     }
+
     private static int findMax(int[] pNumbers) {
         int max = pNumbers[0];
         //Schleife über alle elemente
